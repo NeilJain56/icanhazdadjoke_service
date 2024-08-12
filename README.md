@@ -1,7 +1,6 @@
 # Icanhazdadjoke_service
 
 Author: Neil Jain
-Date: 08/12/2024
 
 ## Summary
 The Icanhazdadjoke_service is a React.js and Flask app that allows users to get a specific number of dad jokes based on a search term they provide given 5 seconds apart. 
